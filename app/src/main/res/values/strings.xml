@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="home">Home</string>
+    <string name="click_image">Capture</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Subham Ahir</string>
+    <string name="change_dp">Profile Pic</string>
+    <string name="orders">My Orders</string>
+    <string name="track_package">Track Package</string>
+    <string name="Change_password">Password</string>
+    <string name="customer_care">Customer Care</string>
+    <string name="change">Change</string>
+    <string name="contact">Contact</string>
+    <string name="track">Track</string>
+    <string name="check_list">Check List</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="category">Select Category</string>
+    <string name="description">Enter Description</string>
+</resources>
